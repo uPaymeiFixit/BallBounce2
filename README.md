@@ -1,5 +1,5 @@
 # ball-bounce-with-physics
-HTML5 / JavaScript Practice
+HTML5 / JavaScript / Physics Practice
 
 Ball bounce was one of the first projects we did in my high school CS class. I added momentum and collisions to keep things interesting.
 
